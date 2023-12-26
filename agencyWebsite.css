@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Poppins&family=Roboto&display=swap');
+/* universal selector */
+*{
+    
+    font-family: 'Popins',sans-serif;
+}
+    span{
+        color: rgb(131, 131, 223);
+    }
+    h3{
+        color: rgb(243, 243, 98);
+        margin-left: 20px;
+    }
+    #img1, #img2 , #para1 ,#para2{
+        display: inline-block;
+        margin-left: 20px;
+    }
+    #img1, #img2{
+        height: 140px;
+        width: 190px;
+    }
+     
+    h1{
+        margin-left: 20px;
+    }
+    #img2{
+        margin-left: 150px;
+    }
+    body{
+        background-color: #faf9f6;
+    }
+    #footer{
+        color: rgb(107, 107, 247); 
+        text-align: right; 
+    }
